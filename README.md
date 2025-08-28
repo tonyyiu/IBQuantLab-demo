@@ -4,6 +4,10 @@
 
 This repository contains a Streamlit-based application for backtesting trading strategies. The app provides an interactive interface for loading data, selecting strategies, configuring parameters, running backtests, tuning hyperparameters, validating strategies using walk-forward validation, and visualizing results.
 
+## 🎥 Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/kkF99YnDuYM/0.jpg)](https://www.youtube.com/watch?v=kkF99YnDuYM&t=3s)
+
 ## Features
 
 - **Data Loading**: Upload CSV files or fetch historical data from Interactive Brokers (IBKR).
