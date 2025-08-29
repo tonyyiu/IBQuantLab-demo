@@ -83,4 +83,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - [Matplotlib](https://matplotlib.org/) for visualizations.
 - [Scikit-learn](https://scikit-learn.org/) for machine learning components.
 
-> **Disclaimer** *This project is not affiliated with, endorsed by, or connected to Interactive Brokers LLC.*
+> **Disclaimer:** *This project is not affiliated with, endorsed by, or connected to Interactive Brokers LLC.*
